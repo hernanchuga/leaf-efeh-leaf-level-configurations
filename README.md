@@ -20,6 +20,3 @@ The file is `leaf_level_model_and_augmentation_configurations.xlsx`. The multila
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-## Archive
-
-DOI: to be added after the Zenodo release.
