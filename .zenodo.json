@@ -1,0 +1,27 @@
+{
+  "title": "Leaf-level model and augmentation configurations for Leaf-EFEH electrical response prediction",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Chugá-Portilla, Alexis",
+      "affiliation": "Universidad Católica del Norte",
+      "orcid": "0009-0001-8384-2347"
+    },
+    {
+      "name": "Menéndez-Granizo, Oswaldo",
+      "affiliation": "Universidad Católica del Norte",
+      "orcid": "0000-0001-7101-0319"
+    }
+  ],
+  "keywords": [
+    "leaf-based energy harvesting",
+    "data augmentation",
+    "hyperparameters",
+    "Brassica rapa pekinensis",
+    "Spinacia oleracea"
+  ],
+  "description": "<p>Workbook of leaf-level model and data-augmentation configurations used to predict open-circuit voltage and short-circuit current of leaf-based electric field energy harvesters.</p><p>Sheets: Table7_selection (best and worst augmented configuration by species, response, and model); Brassica_fixed (fixed settings for Brassica rapa pekinensis); Spinacia_ranges (ranges and most frequent categorical choices for Spinacia oleracea); Spinacia_full (1,200 repetition-specific records).</p>"
+}
